@@ -1,0 +1,11 @@
+SIPSimpleSettings:
+    instance_id = "urn:uuid:e3519887-97bc-4923-b8a4-a19b10ab8e7b"
+    audio:
+        alert_device = system_default
+        input_device = system_default
+        output_device = system_default
+
+    video:
+        device = system_default
+
+
